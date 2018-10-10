@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SO.Browser.Desktop.Properties" GeneratedClassName="User">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultBrowserURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com</Value>
+    </Setting>
+    <Setting Name="TabsURLs" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
