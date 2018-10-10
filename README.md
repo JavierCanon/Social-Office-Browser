@@ -18,7 +18,7 @@ Browser is a tool for browsing in isolated and private tabs.
 
 ## Community ##
 
-* [Website]()
+* [Website](https://javiercanon.github.io/Social-Office-Browser/)
 * [Group - Community](https://www.facebook.com/groups/socialoffice/)
 * [Wiki](https://github.com/JavierCanon/Social-Office-Browser/wiki)
 * [Issue - Bug Traking - Feature Request](https://github.com/JavierCanon/Social-Office-Browser/issues)
@@ -34,7 +34,7 @@ Browser is a tool for browsing in isolated and private tabs.
 
 ## Roadmap ##
 
-* [Check this link](https://raw.githubusercontent.com/JavierCanon/Social-Office-Browser/branch/ROADMAP.md)
+* [Check this link](https://github.com/JavierCanon/Social-Office-Browser/blob/master/ROADMAP.md)
 
 
 ## Build Dependencies ##
@@ -52,6 +52,6 @@ Browser is a tool for browsing in isolated and private tabs.
 Please submit [bug reports](https://github.com/JavierCanon/Social-Office-Browser/issues) or feature requests on GitHub.
 
 ## Supported by, thanks to ##
-![Caphyon](https://raw.githubusercontent.com/JavierCanon/Social-Office-Browser/branch/docs/img/advanced-installer-iconNavLogo.svg)
+![Caphyon](https://raw.githubusercontent.com/JavierCanon/Social-Office-Browser/master/docs/img/advanced-installer-iconNavLogo.png)
 * [Caphyon Advanced Installer](https://www.advancedinstaller.com) 
 
